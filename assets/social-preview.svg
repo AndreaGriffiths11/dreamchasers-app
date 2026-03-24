@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff"/>
+      <stop offset="50%" style="stop-color:#bc8cff"/>
+      <stop offset="100%" style="stop-color:#58a6ff"/>
+    </linearGradient>
+    <linearGradient id="mic-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#bc8cff"/>
+      <stop offset="100%" style="stop-color:#58a6ff"/>
+    </linearGradient>
+    <filter id="blur-glow">
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="text-glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="640" fill="url(#bg)"/>
+
+  <!-- Subtle grid pattern -->
+  <g opacity="0.03" stroke="#58a6ff" stroke-width="1">
+    <line x1="0" y1="80" x2="1280" y2="80"/><line x1="0" y1="160" x2="1280" y2="160"/>
+    <line x1="0" y1="240" x2="1280" y2="240"/><line x1="0" y1="320" x2="1280" y2="320"/>
+    <line x1="0" y1="400" x2="1280" y2="400"/><line x1="0" y1="480" x2="1280" y2="480"/>
+    <line x1="0" y1="560" x2="1280" y2="560"/>
+    <line x1="160" y1="0" x2="160" y2="640"/><line x1="320" y1="0" x2="320" y2="640"/>
+    <line x1="480" y1="0" x2="480" y2="640"/><line x1="640" y1="0" x2="640" y2="640"/>
+    <line x1="800" y1="0" x2="800" y2="640"/><line x1="960" y1="0" x2="960" y2="640"/>
+    <line x1="1120" y1="0" x2="1120" y2="640"/>
+  </g>
+
+  <!-- Ambient glow behind microphone -->
+  <ellipse cx="640" cy="180" rx="120" ry="120" fill="#bc8cff" opacity="0.06" filter="url(#blur-glow)"/>
+
+  <!-- Microphone icon (CC0, via svgrepo.com/svg/93163/voice-microphone) -->
+  <g transform="translate(595, 80) scale(0.22)" fill="url(#mic-grad)">
+    <path d="M323.14,148.583c-5.523,0-10,4.477-10,10v53.789c0,63.615-55.755,86.282-107.934,86.282S97.273,275.987,97.273,212.372
+      v-53.789c0-5.523-4.477-10-10-10s-10,4.477-10,10v53.789c0,33.888,13.334,61.751,38.561,80.58
+      c20.407,15.231,47.703,23.932,79.373,25.441v72.022h-61.52c-5.523,0-10,4.477-10,10s4.477,10,10,10h143.039c5.523,0,10-4.477,10-10
+      s-4.477-10-10-10h-61.52v-72.022c31.67-1.508,58.966-10.21,79.373-25.441c25.227-18.828,38.561-46.692,38.561-80.58v-53.789
+      C333.14,153.06,328.663,148.583,323.14,148.583z"/>
+    <path d="M138.642,267.736c16.35,10.689,38.746,16.109,66.565,16.109s50.215-5.42,66.565-16.109
+      c19.517-12.76,29.833-33.036,29.833-58.637V85.573C301.606,35.189,261.965,0,205.207,0c-56.758,0-96.398,35.189-96.398,85.573
+      v123.526C108.808,234.7,119.125,254.976,138.642,267.736z M205.207,20c38.028,0,76.399,20.276,76.399,65.573v9.207h-40.312
+      c-5.523,0-10,4.477-10,10s4.477,10,10,10h40.312v23.305h-40.312c-5.523,0-10,4.477-10,10s4.477,10,10,10h40.312v23.305h-40.312
+      c-5.523,0-10,4.477-10,10s4.477,10,10,10h40.312v7.71c0,19.052-6.796,32.756-20.778,41.897
+      c-12.857,8.406-32.091,12.849-55.621,12.849s-42.763-4.443-55.621-12.849c-13.981-9.141-20.777-22.845-20.777-41.897v-7.71h40.312
+      c5.523,0,10-4.477,10-10s-4.477-10-10-10h-40.312v-23.305h40.312c5.523,0,10-4.477,10-10s-4.477-10-10-10h-40.312V114.78h40.312
+      c5.523,0,10-4.477,10-10s-4.477-10-10-10h-40.312v-9.207C128.808,40.276,167.179,20,205.207,20z"/>
+  </g>
+
+  <!-- Title -->
+  <text x="640" y="310" text-anchor="middle" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="white" letter-spacing="-2" filter="url(#text-glow)">dreamchasers</text>
+
+  <!-- Subtitle -->
+  <text x="640" y="370" text-anchor="middle" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#8b949e" letter-spacing="0.5">Learn to code on GitHub — no experience needed</text>
+
+  <!-- Divider line -->
+  <rect x="540" y="400" width="200" height="2" rx="1" fill="url(#glow)" opacity="0.4"/>
+
+  <!-- Track pills -->
+  <g font-family="'SF Mono', 'Fira Code', monospace" font-size="16" text-anchor="middle">
+    <rect x="310" y="430" width="180" height="34" rx="17" fill="#58a6ff" opacity="0.12" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="400" y="452" fill="#58a6ff">7 Tracks</text>
+
+    <rect x="550" y="430" width="180" height="34" rx="17" fill="#bc8cff" opacity="0.12" stroke="#bc8cff" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="640" y="452" fill="#bc8cff">Browser-based</text>
+
+    <rect x="790" y="430" width="180" height="34" rx="17" fill="#3fb950" opacity="0.12" stroke="#3fb950" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="880" y="452" fill="#3fb950">100% Free</text>
+  </g>
+
+  <!-- Bottom tagline -->
+  <text x="640" y="550" text-anchor="middle" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#484f58" font-style="italic">Started from the bottom, now we ship code.</text>
+
+  <!-- Bottom accent bar -->
+  <rect x="0" y="610" width="1280" height="30" fill="url(#glow)" opacity="0.15"/>
+
+  <!-- Author -->
+  <text x="1230" y="590" text-anchor="end" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#484f58">ag11.dev</text>
+</svg>
