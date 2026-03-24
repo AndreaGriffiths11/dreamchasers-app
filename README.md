@@ -2,7 +2,7 @@
 
 Started from the bottom, now we ship code.
 
-https://github.com/user-attachments/assets/dreamchasers-demo.mp4
+https://github.com/AndreaGriffiths11/dreamchasers-app/raw/main/demo.mp4
 
 This repo is your starting line. No CS degree needed. No bootcamp. Just you, a GitHub account, and the willingness to build something.
 
