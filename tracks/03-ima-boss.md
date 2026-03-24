@@ -39,9 +39,9 @@ Edit the README.md with whatever you want people to know:
 Go to `github.com/YOUR-USERNAME` — that's your page. Live. On the internet. You built that.
 
 ## 📚 Go Deeper
-- [GitHub Skills: Profile README](https://github.com/skills/profile-readme)
 - [Awesome GitHub Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme) — inspo from the community
-- [GitHub Blog: How to build a standout profile](https://github.blog/developer-skills/github/how-to-create-a-standout-github-profile/)
+- [How to share what you know](https://dev.to/andreagriffiths11/how-to-share-what-you-know-without-becoming-an-influencer-3cke) — by Andrea Griffiths
+- [GitHub Skills: All Courses](https://github.com/skills)
 
 ## ⏭️ Next Track
 [Track 4: Championships →](04-championships.md)

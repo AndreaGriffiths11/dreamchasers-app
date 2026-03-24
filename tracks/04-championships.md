@@ -35,7 +35,7 @@ curl -fsSL https://gh.io/copilot-install | bash
 copilot
 ```
 
-It works with Claude, GPT, and Gemini. You pick. All free with your GitHub account.
+It works with Claude, GPT, and Gemini. You pick the model. All free with your GitHub account.
 
 Tell it what you want in plain English:
 > "Build me a website that shows my favorite songs"
@@ -43,10 +43,10 @@ Tell it what you want in plain English:
 And it builds it. For real.
 
 ## 📚 Go Deeper
-- [GitHub Copilot Docs](https://docs.github.com/en/copilot)
-- [GitHub Copilot Free](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/)
-- [Copilot CLI](https://githubnext.com/projects/copilot-cli)
+- [GitHub Copilot Free](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/) — official announcement
 - [GitHub Skills: Code with Copilot](https://github.com/skills/copilot-codespaces-vscode)
+- [Training Developers on GitHub Copilot: Lessons Learned](https://dev.to/andreagriffiths11/training-developers-on-github-copilot-lessons-learned-j5) — by Andrea Griffiths
+- [How I Built a Teen Slang Translator with Copilot](https://dev.to/andreagriffiths11/how-i-built-a-kid-slang-translator-with-github-copilot-and-claude-37-sonnet-2hh9) — by Andrea Griffiths
 
 ## ⏭️ Next Track
 [Track 5: Expensive Pain →](05-expensive-pain.md)

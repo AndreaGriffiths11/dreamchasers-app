@@ -36,7 +36,7 @@ No shame in asking. Every senior developer does this.
 ## 📚 Go Deeper
 - [GitHub Skills: Review Pull Requests](https://github.com/skills/review-pull-requests)
 - [GitHub Docs: About Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
-- [How to Debug Anything](https://www.youtube.com/watch?v=AX7uBg-SczE) — YouTube
+- [Holy Moly! GitHub Found 39 Million Leaked Secrets in 2024](https://dev.to/andreagriffiths11/holy-moly-github-found-39-million-leaked-secrets-in-2024-534o) — by Andrea Griffiths (security matters from day one)
 
 ## ⏭️ Next Track
 [Track 6: Going Bad →](06-going-bad.md)
