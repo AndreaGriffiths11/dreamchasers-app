@@ -40,7 +40,7 @@ This is the tool that built this repo. It turns plain English into code, right f
 
 ```bash
 # Install Copilot CLI
-npm install -g @github/copilot-cli
+npm install -g @github/copilot
 
 # Launch it
 copilot
