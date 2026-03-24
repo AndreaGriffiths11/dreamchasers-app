@@ -30,7 +30,25 @@ All you need:
 1. A GitHub account → [Sign up free](https://gh.io/dreamchaser)
 2. A browser
 
-That's it. No downloads. No installs. Everything runs in the browser.
+That's it. No downloads. Everything in the tracklist runs in the browser.
+
+## 🛠️ Want to Try Copilot CLI?
+
+This is the tool that built this repo. It turns plain English into code, right from your terminal.
+
+![Copilot CLI demo](https://github.com/user-attachments/assets/a2581433-8d82-42e7-a111-be922681e05d)
+
+```bash
+# Install Copilot CLI
+npm install -g @github/copilot-cli
+
+# Launch it
+github-copilot-cli
+```
+
+Included in all GitHub Copilot plans, including Free. All you need is a [GitHub account](https://gh.io/dreamchaser).
+
+Want the full walkthrough? Here's [the official guide on the GitHub Blog](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/) and the [documentation](https://docs.github.com/en/copilot/github-copilot-in-the-cli).
 
 ## 💡 Why This Exists
 
