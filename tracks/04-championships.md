@@ -55,7 +55,7 @@ And it builds it. For real.
 
 ### Video Tutorials
 - [GitHub YouTube Channel](https://www.youtube.com/@GitHub) — official tutorials and demos
-- [acolombiadev - Alejandro Colomb](https://www.youtube.com/@acolombiadev) — excellent Copilot CLI tutorials
+- [acolombiadev](https://www.youtube.com/@acolombiadev) — Copilot CLI tutorials and AI-assisted coding workflows
 
 ### Learn More
 - [GitHub Copilot in the Browser](https://github.com/copilot) — try it right now, no installation
