@@ -47,10 +47,23 @@ Tell it what you want in plain English:
 And it builds it. For real.
 
 ## 📚 Go Deeper
-- [GitHub Copilot Free](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/) — official announcement
-- [Copilot CLI Docs](https://docs.github.com/en/copilot/github-copilot-in-the-cli) — official setup guide
-- [Training Developers on GitHub Copilot: Lessons Learned](https://dev.to/andreagriffiths11/training-developers-on-github-copilot-lessons-learned-j5) — by Andrea Griffiths
-- [How I Built a Teen Slang Translator with Copilot](https://dev.to/andreagriffiths11/how-i-built-a-kid-slang-translator-with-github-copilot-and-claude-37-sonnet-2hh9) — by Andrea Griffiths
+
+### Official Copilot Resources
+- [GitHub Copilot in the CLI - Official Docs](https://docs.github.com/en/copilot/github-copilot-in-the-cli) — complete guide and reference
+- [GitHub Copilot Free - Official Announcement](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/) — GitHub Blog announcement
+- [GitHub Copilot Documentation](https://docs.github.com/en/copilot) — all official docs and guides
+
+### Video Tutorials
+- [GitHub YouTube Channel](https://www.youtube.com/@GitHub) — official tutorials and demos
+- [acolombiadev - Alejandro Colomb](https://www.youtube.com/@acolombiadev) — excellent Copilot CLI tutorials
+
+### Learn More
+- [GitHub Copilot in the Browser](https://github.com/copilot) — try it right now, no installation
+- [Getting Started with Copilot CLI](https://docs.github.com/en/copilot/github-copilot-in-the-cli/using-github-copilot-in-the-cli) — step-by-step setup guide
+
+### Real-World Examples
+- [Training Developers on GitHub Copilot: Lessons Learned](https://dev.to/andreagriffiths11/training-developers-on-github-copilot-lessons-learned-j5) — Andrea Griffiths
+- [How I Built a Teen Slang Translator with Copilot](https://dev.to/andreagriffiths11/how-i-built-a-kid-slang-translator-with-github-copilot-and-claude-37-sonnet-2hh9) — Andrea Griffiths
 
 > 🏆 **Track 4 complete!** You've got AI in your corner. From here on out, you're never coding alone.
 
