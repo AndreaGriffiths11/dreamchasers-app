@@ -38,9 +38,11 @@ Stuck? Paste the error message into [Copilot Chat](https://github.com/copilot) a
 No shame in asking. Every senior developer does this.
 
 ## 📚 Go Deeper
-- [GitHub Skills: Review Pull Requests](https://github.com/skills/review-pull-requests)
-- [Getting Started with GitHub Issues and Projects](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/) — GitHub Blog
-- [GitHub Docs: About Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+- [GitHub Issues and Projects - Getting Started](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/) — GitHub Blog
+- [About Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) — official GitHub docs
+- [GitHub Skills: Review Pull Requests](https://github.com/skills/review-pull-requests) — free interactive course
+- [Troubleshooting Common Git Issues](https://docs.github.com/en/get-started/getting-started-with-git) — official docs
+- [Using Copilot Chat to Debug Code](https://github.com/copilot) — ask Copilot about error messages
 
 > 🏆 **Track 5 complete!** You know how to debug and track issues. Bugs don't scare you anymore.
 

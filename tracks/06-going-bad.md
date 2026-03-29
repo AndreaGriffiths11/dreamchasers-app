@@ -35,10 +35,13 @@ The original author reviews your work and can merge it in. That's how open sourc
 See a repo you think is cool? Star it. It's like a bookmark + a shoutout. The creator sees it.
 
 ## 📚 Go Deeper
-- [GitHub Skills: All Courses](https://github.com/skills) — free, interactive, all browser-based
-- [GitHub Docs: Contributing to Projects](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
+- [Contributing to Projects](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) — official GitHub docs
+- [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) — official docs with workflow diagrams
 - [First Contributions](https://github.com/firstcontributions/first-contributions) — make your first open source contribution
-- [GitHub Blog](https://github.blog/) — what's new, tutorials, stories
+- [GitHub Skills: All Courses](https://github.com/skills) — free, interactive, all browser-based
+- [GitHub Blog](https://github.blog/) — what's new, tutorials, community stories
+- [GitHub Flow Guide](https://guides.github.com/introduction/flow/) — visual guide to the collaborative workflow
+- [Forking a Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) — official step-by-step guide
 
 > 🏆 **Track 6 complete!** You know how to fork, PR, and collaborate. You're ready to build with anyone.
 

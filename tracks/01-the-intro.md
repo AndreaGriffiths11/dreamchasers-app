@@ -37,8 +37,10 @@ You just shipped your first project. 🎤
 That's your first commit. You're officially building.
 
 ## 📚 Go Deeper
-- [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github) — free interactive course
-- [What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc) — 3 min video
+- [GitHub Hello World Quickstart](https://docs.github.com/en/get-started/start-your-journey/hello-world) — official tutorial, covers repos, branches, and PRs
+- [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github) — free interactive course (hands-on)
+- [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) — GitHub YouTube (3 min overview)
+- [GitHub Getting Started Guide](https://docs.github.com/en/get-started) — official docs with complete reference
 
 > 🏆 **Track 1 complete!** You created a repo, edited a file, and made your first commit. You're officially on the board.
 

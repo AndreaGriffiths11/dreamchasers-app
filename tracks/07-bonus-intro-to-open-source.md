@@ -68,10 +68,14 @@ Every contribution you make shows up on your GitHub profile as a green square. O
 Recruiters look at this. Teams look at this. It's proof you can ship.
 
 ## 📚 Go Deeper
-- [First Contributions](https://github.com/firstcontributions/first-contributions) — your first PR in 10 minutes
-- [GitHub Docs: Contributing to Projects](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
+- [First Contributions](https://github.com/firstcontributions/first-contributions) — your first PR in 10 minutes (interactive)
+- [Contributing to a Project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) — official GitHub docs
+- [About Open Source](https://docs.github.com/en/get-started/exploring-projects-on-github) — official docs intro
 - [Rethinking Open Source Mentorship in the AI Era](https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/) — GitHub Blog
-- [GitHub Skills: All Courses](https://github.com/skills)
+- [GitHub Skills: All Courses](https://github.com/skills) — free courses (Community Contributions, Managing Merge Conflicts, and more)
+- [Awesome Open Source Resources](https://github.com/topics/awesome) — explore trending open source projects
+- [Good First Issues](https://goodfirstissues.com/) — curated list of beginner-friendly tasks
+- [Up For Grabs](https://up-for-grabs.net/) — projects actively seeking new contributors
 
 > 🏆 **Album complete!** You went from zero to open source contributor. That's not "learning to code" — that's building.
 

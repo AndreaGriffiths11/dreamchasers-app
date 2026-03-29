@@ -48,6 +48,12 @@ You don't need to memorize these — you'll learn them as you go. Just a heads-u
 
 Everything's set. Let's make some noise.
 
+## 📚 Go Deeper
+- [Creating an Account on GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) — official docs
+- [GitHub Getting Started Guide](https://docs.github.com/en/get-started) — official docs
+- [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) — GitHub YouTube
+- [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github) — free interactive course
+
 ## ⏭️ Next Track
 [Track 1: The Intro →](01-the-intro.md)
 

@@ -43,9 +43,10 @@ Edit the README.md with whatever you want people to know:
 Go to `github.com/YOUR-USERNAME` — that's your page. Live. On the internet. You built that.
 
 ## 📚 Go Deeper
-- [Awesome GitHub Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme) — inspo from the community
-- [GitHub Docs: Manage Your Profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
-- [GitHub Skills: All Courses](https://github.com/skills)
+- [Managing Your Profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) — official GitHub docs
+- [Awesome GitHub Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme) — community inspiration gallery
+- [GitHub Skills: All Courses](https://github.com/skills) — free interactive courses
+- [Communicating with Markdown](https://github.com/skills/communicate-using-markdown) — learn markdown formatting for your profile
 
 > 🏆 **Track 3 complete!** You have a profile page live on the internet. Go show someone.
 

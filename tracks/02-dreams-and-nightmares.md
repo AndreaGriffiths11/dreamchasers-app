@@ -40,10 +40,12 @@ Want to try something without messing up what you already have?
 When you're happy with the changes, you merge them back. That's how every developer on earth works.
 
 ## 📚 Go Deeper
-- [GitHub Skills: Communicate Using Markdown](https://github.com/skills/communicate-using-markdown)
-- [What is Git? Our Beginner's Guide](https://github.blog/developer-skills/programming-languages-and-frameworks/what-is-git-our-beginners-guide-to-version-control/) — GitHub Blog
+- [GitHub Hello World Quickstart](https://docs.github.com/en/get-started/start-your-journey/hello-world) — official full tutorial covering branches & pull requests
+- [What is Git? Our Beginner's Guide to Version Control](https://github.blog/developer-skills/programming-languages-and-frameworks/what-is-git-our-beginners-guide-to-version-control/) — GitHub Blog
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/) — GitHub Guides (official, short reference)
+- [GitHub Skills: Communicate Using Markdown](https://github.com/skills/communicate-using-markdown) — free interactive course
+- [Understanding Branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) — official docs
 - [How GitHub Works](https://www.youtube.com/watch?v=w3jLJU7DT5E) — GitHub YouTube
-- [Understanding Branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 
 > 🏆 **Track 2 complete!** You know commits and branches — the foundation of how all software gets built.
 
